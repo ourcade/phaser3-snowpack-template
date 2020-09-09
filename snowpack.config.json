@@ -1,0 +1,11 @@
+{
+	"mount": {
+		"public": "/",
+		"src": "/_dist_"
+	},
+	"devOptions": {
+		"port": 8000,
+		"open": "none"
+	},
+	"plugins": []
+}
