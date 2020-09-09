@@ -10,6 +10,7 @@
 		"phaser": "^3.24.1"
 	},
 	"devDependencies": {
+		"babel-eslint": "^10.1.0",
 		"eslint": "^7.8.1",
 		"prettier": "^2.0.5",
 		"snowpack": "^2.10.3"
