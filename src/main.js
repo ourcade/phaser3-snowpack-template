@@ -1,4 +1,3 @@
-
 import Phaser from 'phaser'
 
 import HelloWorldScene from './scenes/HelloWorldScene'
